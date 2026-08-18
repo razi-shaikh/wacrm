@@ -13,6 +13,7 @@ export default function PrivacyPolicyPage() {
       </p>
 
       <div className="space-y-8 text-sm leading-relaxed text-foreground/90">
+        {/* Overview */}
         <section>
           <h2 className="text-lg font-semibold mb-2">1. Overview</h2>
           <p>
